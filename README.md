@@ -55,8 +55,8 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+### Name: KISHORE B
+### Register Number: 23013723
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
